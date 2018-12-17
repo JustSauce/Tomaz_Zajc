@@ -1,0 +1,8 @@
+1. Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   glasba.txt
+        new file:   porocilo.txt
+        new file:   tmp.txt
+
+2.
