@@ -1,8 +1,14 @@
-1. Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
+1.	Changes to be committed:
+  	(use "git rm --cached <file>..." to unstage)
 
         new file:   glasba.txt
         new file:   porocilo.txt
         new file:   tmp.txt
 
-2.
+2. 	On branch master
+  	Changes to be committed:
+  	(use "git reset HEAD <file>..." to unstage)
+
+        modified:   vaja/glasba.txt
+        modified:   vaja/porocilo.txt
+        modified:   vaja/tmp.txt
